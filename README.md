@@ -11,7 +11,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors 
 
 - @Ayyriel - Natural Language Processing 
-- @JingRonggg - Data Extraction 
+- @JingRonggg - Data Extraction & Data Cleaning
 - @negnij - Data Resampling, Linear Regression  
 
 ## Problem Definition 
