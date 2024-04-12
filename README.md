@@ -12,7 +12,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 - @Ayyriel - Natural Language Processing 
 - @JingRonggg - Data Extraction & Data Cleaning
-- @negnij - Data Resampling, Linear Regression  
+- @negnij - Boot Strapping, Linear Regression  
 
 ## Problem Definition 
 - Which hashtag and caption length yield the highest impression and engagement rates? 
