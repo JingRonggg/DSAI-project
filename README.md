@@ -25,7 +25,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## What did we learn from this project? 
 - Handling insufficent data using bootstrapping methods 
-- Natural Language Processing 
+- Natural Language Processing, Use of nlkt library
 - Collaborating using GitHub 
 
 ## References 
