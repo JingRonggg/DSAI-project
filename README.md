@@ -15,7 +15,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - @negnij - Boot Strapping, Linear Regression  
 
 ## Problem Definition 
-- Which hashtag and caption length yield the highest impression and engagement(likes, comments, shares)? 
+- Which hashtag and caption length yield the highest impression and engagement(likes, comments, shares)?
+- Is there any correlation between Caption Length and engagement(likes, comments, shares)?
 
 ## Models Used 
 
