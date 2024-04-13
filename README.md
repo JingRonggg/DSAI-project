@@ -4,10 +4,10 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Instagram data from [Statso](https://statso.io/instagram-reach-analysis-case-study/). For detailed walkthrough, please view the source code in order form: 
 
-1. [Data Extraction]
-2. [Data Resampling]
-3. [Linear Regression]
-4. [Words-correlation]
+1. [Data Extraction](https://github.com/JingRonggg/DSAI-project/blob/main/Data%20Extraction.ipynb)
+2. [Data Resampling](https://github.com/JingRonggg/DSAI-project/blob/main/Data%20Resampling.ipynb)
+3. [Linear Regression](https://github.com/JingRonggg/DSAI-project/blob/main/linear-regression.ipynb)
+4. [Words-correlation](https://github.com/JingRonggg/DSAI-project/blob/main/Words-correlation.ipynb)
 
 ## Contributors 
 
