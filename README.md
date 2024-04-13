@@ -37,3 +37,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Collaborating using GitHub 
 
 ## References 
+- https://statso.io/instagram-reach-analysis-case-study/
+- https://realpython.com/nltk-nlp-python/
+- https://www.analyticsvidhya.com/blog/2022/06/stemming-vs-lemmatization-in-nlp-must-know-differences/
+- 
