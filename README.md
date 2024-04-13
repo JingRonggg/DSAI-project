@@ -6,7 +6,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 1. [Data Extraction]
 2. [Data Resampling]
-3. [Linear Regression & Heat Map]
+3. [Linear Regression]
+4. [Words-correlation]
 
 ## Contributors 
 
