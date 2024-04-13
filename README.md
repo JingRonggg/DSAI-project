@@ -24,10 +24,16 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 2. Natural Language Processing (LLM)
 
 ## Conclusion 
+- There is no correlation between caption length and engagement(likes, comments, shares) & impression
+- Likes and Shares are correlated to Impressions
+- Bootstrapping our data resulted in the sample being too random and hence, unable to find the correlation
+- Linear Regression did not perform well with our bootstrapped data
+- Using #explained, #solved, #certification will likely result in the highest impression and engagement(likes, comments, shares)
 
 ## What did we learn from this project? 
 - Handling insufficent data using bootstrapping methods 
 - Natural Language Processing, Use of nlkt library
+- Concepts about Stemming, Lemmatization and Tokenizing under Natural Language Processing
 - Collaborating using GitHub 
 
 ## References 
