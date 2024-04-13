@@ -12,7 +12,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors 
 
 - @Ayyriel - Natural Language Processing 
-- @JingRonggg - Data Extraction & Data Visualisation
+- @JingRonggg - Data Extraction, Data Visualisation, Multi-Output Regressor
 - @negnij - Boot Strapping, Linear Regression  
 
 ## Problem Definition 
@@ -22,7 +22,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Models Used 
 
 1. Linear Regression
-2. Natural Language Processing (LLM)
+2. Multi-Output Regressor
+3. Natural Language Processing (LLM)
 
 ## Conclusion 
 - There is no correlation between caption length and engagement(likes, comments, shares) & impression
@@ -34,6 +35,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## What did we learn from this project? 
 - Handling insufficent data using bootstrapping methods 
 - Natural Language Processing, Use of nlkt library
+- Usage of Multi-Output regressor to check for non-linear relationship
 - Concepts about Stemming, Lemmatization and Tokenizing under Natural Language Processing
 - Collaborating using GitHub 
 
@@ -42,3 +44,4 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - https://realpython.com/nltk-nlp-python/
 - https://www.analyticsvidhya.com/blog/2022/06/stemming-vs-lemmatization-in-nlp-must-know-differences/
 - https://allendowney.github.io/ElementsOfDataScience/12_bootstrap.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.multioutput.MultiOutputRegressor.html
