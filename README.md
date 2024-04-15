@@ -29,9 +29,10 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - There is no correlation between caption length and engagement(likes, comments, shares) & impression
 - Likes and Shares are correlated to Impressions
 - Bootstrapping our data resulted in the sample being too random and hence, unable to find the correlation
-- Linear Regression did not perform well with our bootstrapped data
-- Using #datascience, #datascienceeducation, #datasciencejob will likely result in the highest impression and engagement(likes, comments, shares)
+- Linear Regression did not perform well with our bootstrapped 
 - Captions with the words 'certified', 'solved' and 'explain' will likely result in the highest impression and engagement(likes, comments, shares)
+- Using #datascience, #datascienceeducation, #datasciencejob will likely result in the highest impression and engagement(likes, comments, shares)
+
 
 ## What did we learn from this project? 
 - Handling insufficent data using bootstrapping methods 
