@@ -36,6 +36,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## What did we learn from this project? 
 - Handling insufficent data using bootstrapping methods 
+- Necessary precautions taken to ensure that bootstrapped data are consistent with results based on the normal model 
 - Natural Language Processing, Use of nlkt library
 - Usage of Multi-Output regressor to check for non-linear relationship
 - Concepts about Stemming, Lemmatization and Tokenizing under Natural Language Processing
