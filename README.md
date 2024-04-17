@@ -28,10 +28,15 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Conclusion 
 - There is no correlation between caption length and engagement(likes, comments, shares) & impression
 - Likes and Shares are correlated to Impressions
-- Bootstrapping our data resulted in the sample being too random and hence, unable to find the correlation
 - Linear Regression did not perform well with our bootstrapped 
-- Captions with the words 'certified', 'solved' and 'explain' will likely result in the highest impression and engagement(likes, comments, shares)
-- Using #datascience, #datascienceeducation, #datasciencejob will likely result in the highest impression and engagement(likes, comments, shares)
+- Top Captions for Impressions: certif, solv, explain, datasciencecours, datascienceeduc
+- Top Captions for Comments: decentr, encrypt, exchang, heard, free
+- Top Captions for Shares: certif, datasciencecours, datascienceeduc, datasciencejob, datasciencetrain
+- Top Captions for Likes: certif, solv, explain, datasciencecours, datascienceeduc
+- Top Hashtags for Impressions: datasciencecours, datascienceeduc, datasciencejob, datasciencetrain, mysql
+- Top Hashtags for Comments: career, careeradvic, careerdevelop, careergo, digitalmarket
+- Top Hashtags for Shares: datasciencecours, datascienceeduc, datasciencejob, datasciencetrain, datascienceproject
+- Top Hashtags for Likes: datasciencecours, datascienceeduc, datasciencejob, datasciencetrain, datascienceproject
 
 
 ## What did we learn from this project? 
