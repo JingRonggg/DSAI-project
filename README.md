@@ -28,7 +28,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Conclusion 
 - There is no correlation between caption length and engagement(likes, comments, shares) & impression
 - Likes and Shares are correlated to Impressions
-- Linear Regression did not perform well with our bootstrapped 
+- Linear Regression did not perform well with our bootstrapped data
+- Multi-Output-Regressor did not perform well with our bootstrapped data
 - Top Captions for Impressions: certif, solv, explain, datasciencecours, datascienceeduc
 - Top Captions for Comments: decentr, encrypt, exchang, heard, free
 - Top Captions for Shares: certif, datasciencecours, datascienceeduc, datasciencejob, datasciencetrain
@@ -43,8 +44,11 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Handling insufficent data using bootstrapping methods 
 - Necessary precautions taken to ensure that bootstrapped data are consistent with results based on the normal model 
 - Natural Language Processing, Use of nlkt library
+- Usage of scikit library
 - Usage of Multi-Output regressor to check for non-linear relationship
 - Concepts about Stemming, Lemmatization and Tokenizing under Natural Language Processing
+- Usage of Countvectorizer to extract the frequency of features in a text and put it in to a hidden table
+- The hidden table of the frequency of each feature is used to find the correlation betweeen the specific words and impressions & engagement(likes, comments, shares)
 - Collaborating using GitHub 
 
 ## References 
@@ -53,3 +57,4 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - https://www.analyticsvidhya.com/blog/2022/06/stemming-vs-lemmatization-in-nlp-must-know-differences/
 - https://allendowney.github.io/ElementsOfDataScience/12_bootstrap.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.multioutput.MultiOutputRegressor.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
